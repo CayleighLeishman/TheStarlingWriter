@@ -4,7 +4,7 @@ A WordPress website built from the ground up for a client project. This reposito
 
 ---
 
-## 🛠️ Project Stack & Environment
+## Project Stack & Environment
 
 This section tracks the exact tools and versions used in the project so everything stays consistent and easier to debug later.
 
@@ -15,17 +15,16 @@ This section tracks the exact tools and versions used in the project so everythi
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 To keep things organized and easy to navigate, this repository is split into the following sections:
 
-*   **[`logs/`](./logs/)**: A chronological record of progress, including daily/weekly updates, key accomplishments, and implementation notes.
-*   **[`troubleshooting/`](./troubleshooting/)**: A technical reference section for errors, bugs, and how I resolved them.
-*   **[`templates/`](./templates/)**: Reusable layouts, CSS snippets, and boilerplate components used throughout the project.
+*   **[`logs/`](/logs/)**: A chronological record of progress, including daily/weekly updates, key accomplishments, and implementation notes.
+*   **[`troubleshooting/`](/troubleshooting/)**: A technical reference section for errors, bugs, and how I resolved them.
 
 ---
 
-## 🚀 Project Goals
+## Project Goals
 
 1. **Re-familiarization:** Get back up to speed with WordPress and the updated block editor workflow.
 2. **Clean Documentation:** Keep clear, structured notes so future updates and troubleshooting are easier.
