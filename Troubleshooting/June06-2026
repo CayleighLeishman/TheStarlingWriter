@@ -1,0 +1,15 @@
+## Error: Icons displaying larger than expected in layout
+
+### Context & Symptoms
+* **Trigger Event:** Occurred during homepage layout and design experimentation
+* **System Behavior:** Icons appear disproportionately large compared to surrounding text and layout structure
+
+### Resolution Steps
+1. Inspected block editor settings for icon/image sizing controls
+2. Reviewed theme customization settings for typography and icon scaling rules
+3. Identified need for CSS-based control of image/icon sizing if theme settings are insufficient
+
+### Root Cause & Prevention
+* Likely caused by default theme styling or block editor default image scaling behavior
+* Some themes apply global styling that overrides expected icon sizing
+* Going forward, I will check theme styling rules and block settings before assuming layout issues are content-related
