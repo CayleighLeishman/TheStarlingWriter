@@ -19,8 +19,8 @@ This section tracks the exact tools and versions used in the project so everythi
 
 To keep things organized and easy to navigate, this repository is split into the following sections:
 
-*   **[`logs/`](/logs/)**: A chronological record of progress, including daily/weekly updates, key accomplishments, and implementation notes.
-*   **[`troubleshooting/`](/troubleshooting/)**: A technical reference section for errors, bugs, and how I resolved them.
+*   **[`logs/`](https://github.com/CayleighLeishman/TheStarlingWriter/blob/main/logs)**: A chronological record of progress, including daily/weekly updates, key accomplishments, and implementation notes.
+*   **[`troubleshooting/`]([troubleshooting/](https://github.com/CayleighLeishman/TheStarlingWriter/tree/main/Troubleshooting))**: A technical reference section for errors, bugs, and how I resolved them.
 
 ---
 
