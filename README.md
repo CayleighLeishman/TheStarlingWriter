@@ -9,9 +9,9 @@ A WordPress website built from the ground up for a client project. This reposito
 This section tracks the exact tools and versions used in the project so everything stays consistent and easier to debug later.
 
 *   **Platform:** WordPress (v6.x)
-*   **Active Theme:** [Insert Theme Name, e.g., Astra / Blocksy / GeneratePress]
-*   **Page Builder/Editor:** [e.g., Native Gutenberg Block Editor / Elementor]
-*   **Development Environment:** [e.g., LocalWP (Local) / Live Hosting Provider]
+*   **Active Theme:** Astra
+*   **Page Builder/Editor:**  Native Gutenberg Block Editor (?)
+*   **Development Environment:** [ LocalWP (Local) (?)
 
 ---
 
